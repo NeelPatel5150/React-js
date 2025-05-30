@@ -10,8 +10,9 @@ import Main1 from './Main1'
 import './App.css'
 
 function App() {
-  
+
 // const details = {Student_name:"Neel",University_name:"LJKU"}
+
   return (
     <>
      {/* <Task1></Task1> */}
