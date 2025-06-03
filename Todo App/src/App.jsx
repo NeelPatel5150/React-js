@@ -6,9 +6,19 @@
 // import Event1 from './Event1'
 // import Map1 from './Map1'
 // import Arraymap from './ArrayMap'
-import Main1 from './Main1'
+// import Main1 from './Main1'
+// import M1 from './M1'
+// import M2 from './M2'
+// import  EX1 from './EX1'
+// import Map2 from './Map2'
+// import US1 from './US1'
+// import US2 from './US2'
+// import US3 from './US3
+// import US4 from './US4'
+// import US5 from './US5'
+// import US6 from './US6'
+import US7 from './US7'
 import './App.css'
-
 function App() {
 
 // const details = {Student_name:"Neel",University_name:"LJKU"}
@@ -23,7 +33,18 @@ function App() {
      {/* <Event1></Event1> */}
      {/* <Map1></Map1> */}
      {/* <Arraymap></Arraymap> */}
-     <Main1></Main1>
+     {/* <Main1></Main1> */}
+     {/* <M1></M1> */}
+     {/* <M2></M2> */}
+      {/* <EX1></EX1> */}
+      {/* <Map2></Map2> */}
+      {/* <US1></US1> */}
+      {/* <US2></US2> */}
+      {/* <US3></US3> */}
+      {/* <US4></US4> */}
+      {/* <US5></US5> */}
+      {/* <US6></US6> */}
+      <US7></US7>
     </>
   )
 }
