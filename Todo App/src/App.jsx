@@ -17,7 +17,10 @@
 // import US4 from './US4'
 // import US5 from './US5'
 // import US6 from './US6'
-import US7 from './US7'
+// import US7 from './US7'
+// import Main3 from './Main3'
+// import UE1 from './UE1'
+import UE2 from './UE2'
 import './App.css'
 function App() {
 
@@ -44,7 +47,10 @@ function App() {
       {/* <US4></US4> */}
       {/* <US5></US5> */}
       {/* <US6></US6> */}
-      <US7></US7>
+      {/* <US7></US7> */}
+      {/* <Main3></Main3> */}
+      {/* <UE1></UE1> */}
+      <UE2></UE2>
     </>
   )
 }
