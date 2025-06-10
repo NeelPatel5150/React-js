@@ -20,7 +20,12 @@
 // import US7 from './US7'
 // import Main3 from './Main3'
 // import UE1 from './UE1'
-import UE2 from './UE2'
+// import UE2 from './UE2'
+// import FR1 from './React Forms/FR1'
+// import FR2 from './React Forms/FR2'
+// import FR3 from './React Forms/FR3'
+// import FR4 from './React Forms/FR4'
+import FR5 from './React Forms/FR5'
 import './App.css'
 function App() {
 
@@ -50,7 +55,12 @@ function App() {
       {/* <US7></US7> */}
       {/* <Main3></Main3> */}
       {/* <UE1></UE1> */}
-      <UE2></UE2>
+      {/* <UE2></UE2> */}
+      {/* <FR1></FR1> */}
+      {/* <FR2></FR2> */}
+      {/* <FR3></FR3> */}
+      {/* <FR4></FR4> */}
+      <FR5></FR5>
     </>
   )
 }
